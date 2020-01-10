@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4eaea41-3c46-4b95-8ee1-a31ee2498503" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="216">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -126,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfilio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="21" column="17" selection-start-line="21" selection-end-line="22" />
+            <state relative-caret-position="288">
+              <caret line="79" column="34" lean-forward="true" selection-start-line="74" selection-end-line="83" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -171,14 +170,14 @@
         <option value="$PROJECT_DIR$/BLOG/templates/details.html" />
         <option value="$PROJECT_DIR$/portfilio/local_settings.py" />
         <option value="$PROJECT_DIR$/portfilio/oiasdfjas.py" />
-        <option value="$PROJECT_DIR$/portfilio/settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/portfilio/settings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="99" />
-    <option name="y" value="53" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="6" />
+    <option name="y" value="104" />
     <option name="width" value="1627" />
     <option name="height" value="918" />
   </component>
@@ -200,6 +199,17 @@
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="portfilio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,18 +300,17 @@
       <workItem from="1578574260913" duration="516000" />
       <workItem from="1578574817544" duration="6845000" />
       <workItem from="1578587346939" duration="9583000" />
-      <workItem from="1578645853807" duration="8068000" />
+      <workItem from="1578645853807" duration="10922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37387000" />
+    <option name="totallyTimeSpent" value="40241000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="99" y="53" width="1627" height="918" extended-state="0" />
-    <editor active="true" />
+    <frame x="6" y="104" width="1627" height="918" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16081685" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16081685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -315,7 +324,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298731" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32738853" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32738853" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5015954" side_tool="true" weight="0.25987262" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32866243" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -565,17 +574,17 @@
     <entry file="file://$PROJECT_DIR$/portfilio/oiasdfjas.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfilio/settings.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="21" column="17" selection-start-line="21" selection-end-line="22" />
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/portfilio/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="288">
+          <caret line="79" column="34" lean-forward="true" selection-start-line="74" selection-end-line="83" selection-end-column="1" />
         </state>
       </provider>
     </entry>
