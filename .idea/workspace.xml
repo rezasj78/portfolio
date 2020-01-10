@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4eaea41-3c46-4b95-8ee1-a31ee2498503" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/portfilio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfilio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="162">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -125,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfilio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="131" column="12" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
+            <state relative-caret-position="252">
+              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
             </state>
           </provider>
         </entry>
@@ -168,8 +169,8 @@
         <option value="$PROJECT_DIR$/jobs/templates/home.html" />
         <option value="$PROJECT_DIR$/BLOG/templates/allblogs.html" />
         <option value="$PROJECT_DIR$/BLOG/templates/details.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/portfilio/settings.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -282,12 +283,12 @@
       <workItem from="1578574260913" duration="516000" />
       <workItem from="1578574817544" duration="6845000" />
       <workItem from="1578587346939" duration="9583000" />
-      <workItem from="1578645853807" duration="5372000" />
+      <workItem from="1578645853807" duration="6627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34691000" />
+    <option name="totallyTimeSpent" value="35946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="322" y="141" width="1627" height="918" extended-state="0" />
@@ -298,7 +299,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925262" visible="true" weight="0.25987262" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984046" visible="true" weight="0.25987262" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -308,7 +309,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298731" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32738853" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007474" side_tool="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5015954" side_tool="true" visible="true" weight="0.25987262" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32866243" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -551,17 +552,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/portfilio/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="252">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfilio/settings.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="131" column="12" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

@@ -4,6 +4,10 @@
 *.pot
 *.pyc
 __pycache__/
+<<<<<<< HEAD
+.local_settings.py
+=======
 portfilio/local_settings.py
+>>>>>>> master
 db.sqlite3
 /venv
