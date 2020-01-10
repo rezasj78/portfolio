@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4eaea41-3c46-4b95-8ee1-a31ee2498503" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="d4eaea41-3c46-4b95-8ee1-a31ee2498503" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/portfilio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfilio/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BLOG/templates/details.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="281">
               <caret line="72" column="55" selection-start-line="72" selection-start-column="55" selection-end-line="72" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -114,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfilio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="128" selection-start-line="128" selection-end-line="128" />
+            <state relative-caret-position="479">
+              <caret line="131" column="12" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -154,11 +165,11 @@
         <option value="$PROJECT_DIR$/BLOG/urls.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/django/db/models/base.py" />
         <option value="$PROJECT_DIR$/BLOG/views.py" />
-        <option value="$PROJECT_DIR$/portfilio/settings.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/jobs/templates/home.html" />
         <option value="$PROJECT_DIR$/BLOG/templates/allblogs.html" />
         <option value="$PROJECT_DIR$/BLOG/templates/details.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/portfilio/settings.py" />
       </list>
     </option>
   </component>
@@ -271,15 +282,16 @@
       <workItem from="1578574260913" duration="516000" />
       <workItem from="1578574817544" duration="6845000" />
       <workItem from="1578587346939" duration="9583000" />
-      <workItem from="1578645853807" duration="4584000" />
+      <workItem from="1578645853807" duration="5372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33903000" />
+    <option name="totallyTimeSpent" value="34691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="322" y="141" width="1627" height="918" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16081685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -495,25 +507,11 @@
         <state relative-caret-position="-564" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/admin/img/icon-clock.svg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfilio/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BLOG/urls.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -550,6 +548,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="72" column="55" selection-start-line="72" selection-start-column="55" selection-end-line="72" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfilio/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="131" column="12" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
         </state>
       </provider>
     </entry>
